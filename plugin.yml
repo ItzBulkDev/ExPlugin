@@ -1,5 +1,5 @@
-name: exPlugin
+name: 
 author: ItzBulkDev
 version: 1.0
 api: [1.12.0]
-website: https://github.com/ItzBulkDev/ExPlugin
+main: IttzBulkDev\Main
