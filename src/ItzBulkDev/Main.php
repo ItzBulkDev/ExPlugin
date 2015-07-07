@@ -2,7 +2,10 @@
 
 namespace ;
 
-use pocketmine\;
+use pocketmine\plugin\PluginBase;
+use pocketmine\event\Listener;
+use pocketmine\Player;
+use pocketmine\utils\TextFormat;
 
 class Main extends PluginBase implements Listener{
 
